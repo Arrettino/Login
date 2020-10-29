@@ -1,0 +1,61 @@
+.form_login{
+    display: flex;
+    width: 360px;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    color: rgba(244,244,244,0.5);
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.form_login_email{
+    display: flex;
+    width: 344px;
+    height: 40px;
+    padding-left: 14px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+}
+.form_login_password{
+    display: flex;
+    width: 344px;
+    height: 40px;
+    margin-top: 35px ;
+    padding-left: 14px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+}
+.form_login_options{
+    display: flex;
+    width: 100%;
+    margin-top: 25px;
+    justify-content: space-between;
+}
+.form_login_checkbox{
+    display: flex;
+    width: 120px;
+    align-items: center;
+    justify-content: space-between;
+}
+.form_login_forgot_password{
+    color: rgba(244,244,244,0.5);
+}
+.form_login_buttom{
+    width: 250px;
+    height:50px;
+    margin-top: 25px ;
+    border-radius: 5px;
+    background-color: #0f0f0fb2 ;
+    border-color: transparent;
+    color: rgba(244,244,244,0.5);
+    font-family: "Roboto";
+}
+.form_login_signup_container{
+    display: flex;
+    width: 280px;
+    margin-top: 15px;
+    justify-content: space-between;
+}
+.form_login_signup{
+    color: #f4f4f4;
+}

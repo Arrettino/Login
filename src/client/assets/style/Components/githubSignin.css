@@ -1,0 +1,30 @@
+.github_signup_container{
+    display: flex;
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #2B2B2B;
+    margin-top: 25px;
+}
+.github_signup_link{
+    display: flex;
+    align-items: center;
+}
+.github_signup_icon_container{
+    width: 56px;
+    height: 50px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3b3b3b;
+}
+.github_signup_icon{
+    width: 24px;
+}
+.github_signin_p{
+    color: white;
+    font-family: "Roboto";
+    margin-left: 32px;
+    size: 18.6;
+}

@@ -1,0 +1,15 @@
+header{
+    height: 54px;
+    display:flex;
+    background-color: #333333c2;
+    align-items: center;
+    padding-left: 25px ;
+}
+.header_logo_portfolio_container{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+.header_logo_portfolio{
+    height: 100%;
+}

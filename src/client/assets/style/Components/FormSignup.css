@@ -1,0 +1,74 @@
+.form_signup{
+    display: flex;
+    width: 360px;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    color: rgba(244,244,244,0.5);
+}
+.form_signup_container_name{
+    display: flex;
+    height: 40px;
+    width: 360px;
+    justify-content: space-between;
+}
+.form_signup_name{
+    display: flex;
+    width: 150px;
+    height: 100%;
+    padding-left: 14px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+}
+.form_signup_email{
+    display: flex;
+    width: 344px;
+    height: 40px;
+    margin-top: 35px ;
+    padding-left: 14px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+}
+.form_signup_password{
+    display: flex;
+    width: 344px;
+    height: 40px;
+    margin-top: 35px;
+    padding-left: 14px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+}
+.form_signup_options{
+    display: flex;
+    width: 100%;
+    margin-top: 25px;
+    justify-content: start;
+}
+.form_signup_checkbox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 310px;
+}
+.form_signup_terms{
+    color: #f4f4f4;
+}
+.form_signup_buttom{
+    width: 250px;
+    height:50px;
+    margin-top: 25px;
+    border-radius: 5px;
+    background-color: #0f0f0fb2 ;
+    border-color: transparent;
+    color: rgba(244,244,244,0.5);
+    font-family: "Roboto";
+}
+.form_signup_login_container{
+    display: flex;
+    width: 225px;
+    margin-top: 15px;
+    justify-content: space-between;
+}
+.form_signup_login{
+    color: #f4f4f4;
+}
